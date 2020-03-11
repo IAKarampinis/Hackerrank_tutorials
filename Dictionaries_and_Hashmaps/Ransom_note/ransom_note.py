@@ -1,6 +1,3 @@
-
-print('\n'*10)
-
 #!/bin/python3
 
 """ This version of the code runs succesfully for 100% of the test cases"""
@@ -27,15 +24,15 @@ def checkMagazine(magazine, note):
         else:
             note_words[word]+=1
     
-    result = True
+    test = True
 
     for word in note:
         if word not in magazine_words.keys():
-            result = False
+            test = False
         elif (note_words[word]>magazine_words[word]):
-            result = False
+            test = False
     
-    if result:
+    if test:
         print('Yes')
     else:
         print('No')
