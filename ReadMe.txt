@@ -1,1 +1,1 @@
-Codes for solving the Hackerrank "interview preparation kit". The ones with trivial solutions have not been included.
+A small selection of codes for solving the Hackerrank "interview preparation kit". 
