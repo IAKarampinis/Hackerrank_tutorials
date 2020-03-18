@@ -7,11 +7,6 @@ import re
 import sys
 
 
-# Complete the freqQuery function below.
-# Idea from discussions: create a reverse map: i.e. a dictionary with frquencies
-# corresponding to values. This is probably going to be much smaller (at worst)
-# as big. This approach seems to solved the elusive Test case 11, however careful
-# implementation is needed for it to run correctly for all cases.
 def freqQuery(queries):
 
     def insertion(x):
