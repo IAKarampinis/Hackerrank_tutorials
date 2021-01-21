@@ -1,5 +1,4 @@
-Problem statement and test cases can be found at:
-https://www.hackerrank.com/challenges/frequency-queries/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps
+Problem statement and test cases can be found $\href{https://www.hackerrank.com/challenges/frequency-queries/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps}{here}$.
 
 The first version of the code was implemented using "brute force". The logic seems to be correct, however the code is  too slow, with test cases 10 and 11 failing due to timeout.
 
